@@ -10,4 +10,4 @@ editor_options:
 
 Welcome to my research website.
 
-[This is a link to birds data](docs/birds.html)
+[This is a link to birds data]('docs/birds.html')
